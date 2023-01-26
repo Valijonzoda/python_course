@@ -5,7 +5,7 @@ printText()
 printText()
 
 def sqRing(p):
-    s = 3.1415 * (p ** 2)
+    s = 3.1415 * (p ** 2)  #git test
     return s
 print(sqRing(20))
 #git test

@@ -1,8 +1,7 @@
 def printText():
     print("hello world")
 printText()
-printText()
-printText()
+
 
 def sqRing(p):
     s = 3.1415 * (p ** 2)  #git test
@@ -25,7 +24,6 @@ get_args(*l)
 def aaargs(*args, **kwargs):
     print(args)
     print(kwargs)
-print(aaargs(1,2,2,2,2,2,2,23, b = 4, l = 8))
 
 
 #notebook123

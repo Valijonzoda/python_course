@@ -24,4 +24,6 @@ get_args(*l)
 def aaargs(*args, **kwargs):
     print(args)
     print(kwargs)
-print(aaargs(1,2,2,2, 2,2,23, b = "4", l = 8))
+
+
+#notebook123

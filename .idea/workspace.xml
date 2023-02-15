@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8faae27-5a02-4452-917f-051294f19018" name="Changes" comment="" />
+    <list default="true" id="b8faae27-5a02-4452-917f-051294f19018" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/python_course" beforeDir="false" afterPath="$PROJECT_DIR$/python_course" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_course/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/python_course/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python_course" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

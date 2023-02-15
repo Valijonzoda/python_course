@@ -1,4 +1,4 @@
-#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
+
 #----------------------------Пример 1------------------------------------------
 def sq(x):
     return x**2  #дарачаи 2-ва мебардорад
@@ -27,3 +27,4 @@ print(f)
 is_adalt = lambda age: age >= 18
 f = list(filter(is_adalt, age))
 print(f)
+#
